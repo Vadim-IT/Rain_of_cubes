@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3F78D0-2953-7C5E-8138-A22FE38CEAC8}|Assembly-CSharp.csproj|C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\assets\\scripts\\cubescreater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3F78D0-2953-7C5E-8138-A22FE38CEAC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubescreater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3F78D0-2953-7C5E-8138-A22FE38CEAC8}|Assembly-CSharp.csproj|c:\\users\\vadim\\desktop\\project_ijunior\\rain_of_cubes\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3F78D0-2953-7C5E-8138-A22FE38CEAC8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\Assets\\Scripts\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cube.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\Assets\\Scripts\\Cube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:29:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CubesCreater.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\Assets\\Scripts\\CubesCreater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubesCreater.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\Project_IJunior\\Rain_of_cubes\\Assets\\Scripts\\CubesCreater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubesCreater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:27:39.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
